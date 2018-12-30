@@ -1,4 +1,4 @@
-This has ben modified by me for my personal use. I do not plan on supporting others endeavers with this fork.
+This has ben modified by me for my personal use. I do not plan on supporting others endeavors with this fork.
 Check out the original creater here. https://github.com/jjcausey/SonnarPutio
 
 
