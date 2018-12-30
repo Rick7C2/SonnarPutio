@@ -56,8 +56,8 @@ PutioUpload(Settings[0]) # Upload Magnet Files
 TorrentFolderCleanup(Settings[0]) # Cleanup Uploaded File
 
 
-
-PutioDownload(Settings[0], Settings[1], Settings[3]) #Download TV Files
+# Disable the downloading of files from putio
+#PutioDownload(Settings[0], Settings[1], Settings[3]) #Download TV Files
 
     
 
