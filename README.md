@@ -1,3 +1,7 @@
+This has ben modified by me for my personal use. I do not plan on supporting others endeavers with this fork.
+Check out the original creater here. https://github.com/jjcausey/SonnarPutio
+
+
 # SonnarPutio
 Uploads Magnet Files from Sonnar to Put.io and Downloads TV Shows
 
